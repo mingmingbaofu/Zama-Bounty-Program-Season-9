@@ -1,1 +1,3 @@
-# Zama-Bounty-Program-Season-9
+# 🛡️ Privacy-Preserving DCA Bot with Transaction Batching (Zama Season 9 Bounty)
+> This project is a submission for the Zama Bounty Program Season 9...
+... (省略其余内容，将在后续写入)
